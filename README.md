@@ -8,7 +8,7 @@ This Python script generates a random maze, solves it using the Breadth-First Se
    ```
    pip install pygame numpy
    ```
-3. Run `topdown.py` using Python 3.x.
+3. Run `main.py` using Python 3.x.
 
 **How to Play**
 - Use the W, A, S, D keys or Arrow keys to move the player.
