@@ -1,7 +1,6 @@
-# Maze-Game-with-Python-language
 **Maze Game**
 
-This is a maze game built with Python and Pygame. Navigate through procedurally generated mazes that become more challenging as you progress.
+This Python script generates a random maze, solves it using the Breadth-First Search (BFS) algorithm, and finds the shortest path from start to exit. The maze complexity increases with the level, and the game ensures the exit is reachable. It prints the maze and the minimum number of moves required to solve it.
 
 **Installation**
 1. Download the repository files.
@@ -13,6 +12,8 @@ This is a maze game built with Python and Pygame. Navigate through procedurally 
 
 **How to Play**
 - Use the W, A, S, D keys or Arrow keys to move the player.
+- Press 1 to start without AI
+- Press 2 to start with AI
 - Reach the exit (marked in red) at the bottom-right corner of the maze.
 - The game gets progressively harder with each level.
 - Press Q to quit the game at any time.
@@ -20,10 +21,9 @@ This is a maze game built with Python and Pygame. Navigate through procedurally 
 **Features**
 - Procedurally generated mazes with increasing difficulty.
 - Simple and intuitive controls.
-- Real-time score calculation based on your performance.
+- Real-time score calculation based on performance.
 
-**Releases**
-You can download the executable version of the game from the "Releases" section.
+This project was created by Abdulrahman Mohamed.
 
-**License**
-This project is licensed under the MIT License. See the LICENSE file for more details.
+**License**  
+This project does not have a license and is available for everyone to use.
