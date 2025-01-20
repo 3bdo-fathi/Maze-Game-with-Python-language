@@ -49,6 +49,24 @@ A fun and interactive maze-solving game that allows users to play manually or wa
 3. **Game Loop**:
    - The game updates the player's position, redraws the maze, and handles user inputs in real-time.
 
+## Images:
+
+### 1. Main Page
+
+![Main Page](https://github.com/3bdo-fathi/Maze-Game-with-Python-language/raw/main/MazeGame/img/Main%20Page.png)
+
+### 2. Manually Play
+
+![Manually Play](https://github.com/3bdo-fathi/Maze-Game-with-Python-language/raw/main/MazeGame/img/manually%20play.png)
+
+### 3. AI Play
+
+![AI Play](https://github.com/3bdo-fathi/Maze-Game-with-Python-language/raw/main/MazeGame/img/Ai%20Play.png)
+
+### 4. Paused Page
+
+![Paused Page](https://github.com/3bdo-fathi/Maze-Game-with-Python-language/raw/main/MazeGame/img/paused%20page.png)
+
 ---
 
 ## Future Improvements
