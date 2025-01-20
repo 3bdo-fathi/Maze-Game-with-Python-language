@@ -1,8 +1,17 @@
-**Maze Game**
+# Maze Game
 
-This Python script generates a random maze, solves it using the Breadth-First Search (BFS) algorithm, and finds the shortest path from start to exit. The maze complexity increases with the level, and the game ensures the exit is reachable. It prints the maze and the minimum number of moves required to solve it.
+A fun and interactive maze-solving game that allows users to play manually or watch an AI solve the maze using a pathfinding algorithm. This project leverages Pygame for visuals and provides an exciting challenge with randomly generated mazes.
 
-**Installation**
+## Features
+
+- **Random Maze Generation**: Each game starts with a unique maze layout.
+- **Manual Play Mode**: Navigate through the maze using keyboard controls.
+- **AI Solver**: Watch the AI solve the maze step by step.
+- **Customizable Settings**: Adjust maze size, difficulty, and player speed.
+
+---
+
+**Install Dependencies**:
 1. Download the repository files.
 2. Install the required dependencies:
    ```
@@ -10,20 +19,58 @@ This Python script generates a random maze, solves it using the Breadth-First Se
    ```
 3. Run `main.py` using Python 3.x.
 
-**How to Play**
-- Use the W, A, S, D keys or Arrow keys to move the player.
-- Press 1 to start without AI
-- Press 2 to start with AI
-- Reach the exit (marked in red) at the bottom-right corner of the maze.
-- The game gets progressively harder with each level.
-- Press Q to quit the game at any time.
+---
 
-**Features**
-- Procedurally generated mazes with increasing difficulty.
-- Simple and intuitive controls.
-- Real-time score calculation based on performance.
+## Dependencies
 
-This project was created by Abdulrahman Mohamed.
+- **Python 3.x**
+- **Pygame**
+- **NumPy** (for maze generation)
 
-**License**  
-This project does not have a license and is available for everyone to use.
+---
+
+## Controls
+
+- **Arrow Keys**: Move the player in manual mode.
+- **R Key**: Reset the maze.
+- **A Key**: Activate AI solver.
+- **Esc Key**: Quit the game.
+
+---
+
+## How It Works
+
+1. **Maze Generation**:
+   - Mazes are generated using algorithms like Depth-First Search (DFS) or Prim's Algorithm, ensuring a unique path to the goal.
+
+2. **AI Solver**:
+   - The AI uses pathfinding algorithms (e.g., Breadth-First Search or A*) to find the shortest path from start to finish.
+
+3. **Game Loop**:
+   - The game updates the player's position, redraws the maze, and handles user inputs in real-time.
+
+---
+
+## Future Improvements
+
+- Add more difficulty levels.
+- Include different maze themes and assets.
+- Introduce additional game modes (e.g., timed challenges).
+
+---
+
+## Contributing 🤝  
+
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.  
+
+## License 📄  
+
+This project is open-source and available for everyone to use. However, it does not have a specific license. Feel free to modify and distribute the code as you see fit.  
+
+---
+
+## Contact  
+
+- **LinkedIn:** [Abdelrahman Mohamed Fathi](https://www.linkedin.com/in/3bdo-fathi/)  
+- **Email:** [abdulrahmanmohamedfathi@gmail.com](mailto:abdulrahmanmohamedfathi@gmail.com)  
+- **GitHub:** [3bdo-fathi](https://github.com/3bdo-fathi)  
