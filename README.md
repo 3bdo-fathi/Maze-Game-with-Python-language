@@ -89,6 +89,5 @@ This project is open-source and available for everyone to use. However, it does 
 
 ## Contact  
 
-- **LinkedIn:** [Abdelrahman Mohamed Fathi](https://www.linkedin.com/in/3bdo-fathi/)  
-- **Email:** [abdulrahmanmohamedfathi@gmail.com](mailto:abdulrahmanmohamedfathi@gmail.com)  
-- **GitHub:** [3bdo-fathi](https://github.com/3bdo-fathi)  
+- **LinkedIn:** [Abdulrahman Mohamed](https://www.linkedin.com/in/3bdo-fathi/)  
+- **Email:** [abdulrahmanmohamedfathi@gmail.com](mailto:abdulrahmanmohamedfathi@gmail.com) 
